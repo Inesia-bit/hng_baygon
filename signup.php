@@ -72,7 +72,7 @@
                      <input type="text" name="password" class="form-control" /><br />  
                      <label>Confirm Password</label>  
                      <input type="text" name="confirm_password" class="form-control" /><br />  
-                     <input type="submit" name="submit" value="Append" class="btn btn-info" /><br />                      
+                     <input type="submit" name="submit" value="Sign Up" class="btn btn-info" /><br />                      
                      <?php  
                      if(isset($message))  
                      {  
